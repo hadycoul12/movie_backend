@@ -56,7 +56,7 @@ Ce projet valide la maîtrise d’un **pipeline complet de Data Science et Data 
 **Hady COULIBALY**  
 Consultant Data • Apprenti Data Scientist / Analyst  
 Expertise en **analyse de données, BI et intelligence artificielle appliquée**.  
-👉 [Mon portfolio](https://hady-data-showcase.lovable.app/)  
+👉 [Mon portfolio](https://portofolio-hadycoul.lovable.app/)  
 👉 [Mon LinkedIn](https://linkedin.com/in/hady-coulibaly)  
 
 ---
